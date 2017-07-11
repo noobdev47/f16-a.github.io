@@ -1,0 +1,20 @@
+html
+{
+    background:url('ccc.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+    scrollbar-darkshadow-color:aqua;
+}
+h1, h2 , h3, h4 , h5 ,h6
+{margin-bottom:1px;
+}
+#asign{
+    background:white;
+    opacity:0.8;
+    position:absolute;
+    top:4em;
+    left:3em;
+    right:3em;
+    border:2px solid black;
+    border-radius:10px;
+}
